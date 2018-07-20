@@ -6,6 +6,7 @@
 ###使用方法: 
     self.my_friend = self.bot.friends().search(u'好友昵称')[0]
     zrbot.monitor(url="http://www.ziroom.com/z/vr/276223.html") 
+    
 将代码中好友昵称改成你想发送微信消息的好友。
 打开想抢的配置中的房源, 
 代码中的链接改为你想抢的房子页面的链接再运行即可,。
